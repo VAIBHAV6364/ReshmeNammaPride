@@ -1,0 +1,12 @@
+{
+  "name": "Reshme-Namma Pride",
+  "description": "A professional Sericulture Guard app for silkworm rearing, featuring real-time climate advisory, instar tracking, and harvest management for Karnataka's silk farmers.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "Agriculture Tech",
+    "Real-time Advisory",
+    "Data Persistence"
+  ]
+}
